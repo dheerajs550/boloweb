@@ -1,0 +1,22 @@
+
+
+.container {
+    padding: 0 2rem;
+  }
+.main{
+    min-height: 100vh;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .blogItemh3{
+    cursor: pointer;
+    font-size: 2rem;
+    margin: 0;
+    padding: 0;
+  }
+  .blogItemhp{
+    max-width: 45vw;
+  }
